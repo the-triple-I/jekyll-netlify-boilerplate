@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Welcome
+title: Welcome to Neo-Education
 permalink: /
 section: home
 intro_paragraph: ""
