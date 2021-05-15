@@ -1,6 +1,4 @@
----
-YAML front matter
----
+
 ---
 layout: page
 title: The Modern Education Stack: A Working Resource
