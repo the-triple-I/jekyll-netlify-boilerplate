@@ -46,7 +46,7 @@ intro_paragraph: |
 
 ### General OER Resources
 
-https://www.oercommons.org/oer
+[https://www.oercommons.org/oer]
 
 
 ### Other
