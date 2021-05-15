@@ -3,7 +3,7 @@ layout: page
 title: The Modern Education Stack: A Working Resource
 meta_description: |
   This sets the meta description in the head of the page. You can watch the 
-  output in the browser or in the generated file _site/education_resources
+  output in the browser or in the generated file _site/page.html
 permalink: pages/education_resources
 section: page
 intro_paragraph: |
