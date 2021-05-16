@@ -1,6 +1,7 @@
 ---
 title: "The Modern Education Stack: A Working Resource "
 meta_description: ""
+permalink: /education_resources
 intro_paragraph: This is the early stages of a resource compilation and review
   which surveys the evolving landscapes in education
 ---
