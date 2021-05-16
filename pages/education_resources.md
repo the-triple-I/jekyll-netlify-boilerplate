@@ -1,4 +1,5 @@
 ---
+layout: page
 title: "The Modern Education Stack: A Working Resource "
 meta_description: ""
 permalink: /education_resources
