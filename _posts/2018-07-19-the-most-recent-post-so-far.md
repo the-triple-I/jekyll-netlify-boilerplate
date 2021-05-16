@@ -1,9 +1,13 @@
 ---
 layout: post
-title: The most recent post so far
+title: "Things I'm Reading:"
 author: john_doe
-date: '2018-07-19 10:07:32'
-intro_paragraph: ''
-categories: misc
+date: 2021-05-15 00:00:47
+intro_paragraph: Big things are happening.
+categories: ""
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborumo.
+[New Science aims to build new institutions of basic science, starting with the life sciences.](https://guzey.substack.com/p/new-science-aims-to-build-new-institutions) -Alexey Guzey's new post announces the launch of New Science an organization which aims to "do to science what Silicon Valley did to entrepreneurship." Very exciting.
+
+[Rational Walk's "Weekend Links"](https://rationalwalk.com/weekend-links-may-14-2021/)- Rational Walk's weekly newsletter.
+
+[Is Learning from Just One Data Point Possible? -Spencer Greenberg](https://www.spencergreenberg.com/2021/05/is-learning-from-just-one-data-point-possible/) How single data impact understanding.
