@@ -10,4 +10,4 @@ categories: ""
 
 [Rational Walk's "Weekend Links"](https://rationalwalk.com/weekend-links-may-14-2021/)- Rational Walk's weekly newsletter.
 
-[Is Learning from Just One Data Point Possible? -Spencer Greenberg](https://www.spencergreenberg.com/2021/05/is-learning-from-just-one-data-point-possible/) How single data impact understanding.
+[Is Learning from Just One Data Point Possible? -Spencer Greenberg](https://www.spencergreenberg.com/2021/05/is-learning-from-just-one-data-point-possible/) How single data points can impact understanding.
